@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sprint4Evalution</string>
+    <string name="Enter_email">Enter Email id</string>
+    <string name="Enter_password">Enter your password</string>
+    <string name="Login">Log in</string>
+    <string name="remember">Remember the password </string>
+</resources>

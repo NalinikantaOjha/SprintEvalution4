@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tvDate"
+       style="@style/TextView1">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvPossetive"
+        style="@style/TextView1">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvNegetive"
+        style="@style/TextView1">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvHospitalized"
+        style="@style/TextView1">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvVentilater"
+        style="@style/TextView1">
+
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvDath"
+        style="@style/TextView1">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvDateChaked"
+        style="@style/TextView1">
+
+    </TextView>
+
+</LinearLayout>
